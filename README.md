@@ -8,7 +8,7 @@ Display page counts on book covers in KOReader's CoverBrowser Mosaic view, sourc
 
 ## Installation
 
-1. Download `2-z-pages-badge-filename.lua` from this repo
+1. Download `2-z-pages-badge.lua` from this repo
 2. Copy it to `.adds/koreader/patches/` on your e-reader
 3. Restart KOReader
 
